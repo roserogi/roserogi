@@ -1,2 +1,3 @@
-Hello! I’m Danielle, an aspiring data analyst with a background in applied statistics and economics. I specialize in turning raw data into clear insights that drive better decision-making. This portfolio showcases my data analysis projects using tools like Python, R, Excel, and Tableau.
+**👩🏽‍💻 Gianna's Data Analyst Portfolio**
+Welcome to my data analytics portfolio! 📊 Here, you’ll find projects where I turn data into insights using Excel, Python, SQL, and visualization tools. My goal is to help organizations make smarter, data-driven decisions.
 
