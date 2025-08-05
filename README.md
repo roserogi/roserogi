@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Gianna's Data Analyst Portfolio 
+# 👩🏽‍💻 Gianna's Data Portfolio 
 
 Hello! I’m Gianna, a fourth-year student at the University of Toronto passionate about data analytics, technology, and using data to drive real-world impact. 📊✨
 
